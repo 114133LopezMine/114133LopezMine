@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andrés López Miné, I'm a 21 years old male that actually live in Villa Allende (Córdoba, Argentina). 
-- 👀 I’m interested in start working as a junior programmer, I'm proactive and so adaptable to any type of situations
+- 👋 Hi, I’m Andrés López Miné, I'm a 22 years old male that actually lives in Villa Allende (Córdoba, Argentina). 
+- 👀 I’m interested in start working as a junior programmer, I'm adaptable to any type of situations.
 - 🌱 I’m currently learning Git/GitHub; Java (backend); HTML, CSS, JavaScript (frontend); then i will learn about Angular as framework.
 - 💞️ I’m looking to collaborate on every kin of projects.
 - 📫 How to reach me?
